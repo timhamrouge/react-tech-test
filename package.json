@@ -1,0 +1,11 @@
+{
+  "name": "tech-test",
+  "version": "1.0.0",
+  "description": "a simple React form with a toolchain built from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Tim Hamrouge",
+  "license": "ISC"
+}
